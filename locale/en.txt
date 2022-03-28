@@ -1,0 +1,119 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = SAVIR EXHIBITION - VIRTUAL TOURS
+
+### Title
+tour.name = SAVIR EXHIBITION
+
+## Skin
+
+### Button
+Button_008EA2FA_21B9_9BE3_41B4_5546F63A7739.label = SAVIR COMPANY
+Button_24313E1C_2A96_3D9B_41C3_DA3A6296F81C.label = CONFERENCE HALL
+Button_25DC868A_2A96_2D7F_41A4_89F69C151FCC.label = EXHIBITION
+Button_2730F6DB_2A9A_EA9D_41A1_398FC84ACFF0.label = LIBRIRY
+Button_27D06D40_2A9D_DFEB_41B9_4C5504DE0B66.label = SAVIR COMPANY
+Button_31BAB398_20B4_AF69_41B7_09803B1F1057.label = VIRUAL LIBRARY
+Button_33DACC81_2676_7B37_41A4_7CC5C04B855A.label = EXHIBITION
+Button_34DD1A3D_217C_F9AB_41B0_666ABE129BED.label = CONFERENCE HALL
+
+### Label
+Label_3020D038_20BC_69A9_41AC_A7254B5DAC64.text = powered by CALI-TS
+Label_3F1E2F2E_2ABE_3BB7_41C4_6A2CFBA0D44E.text = powered by CALI-TS
+
+## Media
+
+### Title
+panorama_2D36F2D1_2158_9A21_41BD_B084AA5EA76D.label = C1
+panorama_2D8035AA_2159_BE62_41B1_A2B728051FC2.label = C3
+panorama_2D8C6F10_2158_8A3E_415F_91655F57CC38.label = C5
+panorama_2D915136_2158_F663_41B2_2D52E175888F.label = C6
+panorama_2D9985C2_2158_BE22_41B5_36FD3FF006A8.label = C2
+panorama_2DE0432A_2159_9A63_41A2_5B1DFE5657E8.label = C4
+panorama_2E2CEAC2_2244_3357_41BC_56339CBFDE7E.label = L3
+panorama_2E3145EA_2244_1157_41BD_CDA404A72C72.label = L4
+panorama_2E3C3540_2244_F153_41BD_5FF985BBF16B.label = L5
+panorama_2E472922_2244_1ED7_4183_BCBADD37F02C.label = L1
+panorama_2ED37DFD_2244_112D_41BC_9D7A781F06DF.label = L2
+panorama_3886A88A_22CE_BEA5_41AA_7B5317B80832.label = L1
+panorama_A70CFD71_B71C_A669_41E3_572DEDFC2323.label = N_14
+panorama_A72F02A0_B71F_A2E6_41B9_A52425FDA0A6.label = N_13
+panorama_A748C706_B71B_E3AA_41DC_DE60765DE25A.label = N_8
+panorama_A750D1D3_B71C_DEA9_41E4_55B22BD701F0.label = N_9
+panorama_AB105D4F_BB04_755A_41DA_BAFC01E375A1.label = SAVIR_MEETINGROOM
+panorama_B49DCDBC_BB04_153E_41D9_D5471F9E58AB.label = SAVIR_ROBOTICS1
+panorama_B5269907_BB04_7ACA_41CC_B8F78B595521.label = SAVIR_study room2
+panorama_B526CB75_BB04_1D4E_41E6_DBBC51564BEB.label = SAVIR_WORKSPACE2
+panorama_B5270220_BB04_0EC6_41DD_4C4154437BEA.label = SAVIR_WORKSPACE1
+panorama_B550D2C8_BB1C_0F46_41D8_1BF99AEE3A5C.label = SAVIR_cto
+panorama_B5668013_BBE2_EED7_41BA_EFDF78972C01.label = N_15
+panorama_B5806D30_BBE2_76D1_41E6_33206AB03035.label = N_16
+panorama_B597C10E_BBE3_EECE_41D2_F4F4B26A05C0.label = N_17
+panorama_B5D82BD4_BB1C_7D4E_41D7_B2E08CBCA8F6.label = SAVIR_ceo
+panorama_B5E43F28_BB04_16C6_41E1_88000EC697E6.label = SAVIR_study room
+panorama_B6F6461D_BB04_76FE_41DF_8784E627F338.label = SAVIR_ROBOTICS2
+panorama_B6F69FA3_BB04_75CA_41D0_1B0050A4E9ED.label = SAVIR_ROBOTICS3
+panorama_B6F6A8EA_BB04_1B5A_41B8_E8932183BA7A.label = SAVIR_ROBOTICS4
+panorama_B6FBC633_BB04_16CA_41D0_1D4FDC1E1E98.label = SAVIR_WORKSHOP1
+panorama_B70A9367_BB0C_0D4A_41C9_60C20C65258F.label = savir_reception5
+panorama_B70AA501_BB0C_0AC6_41C2_3CD833454E1F.label = savir_reception3
+panorama_B70B6E37_BB0C_36CA_41E2_69B0D639151D.label = savir_reception4
+panorama_B70D7D8E_BB0C_15DB_41DB_7AC4282B2F59.label = savir_reception2
+panorama_B82D3DC4_B704_E6AF_41CC_6A48A6DC637E.label = N_7
+panorama_B8541BB0_B71C_E2E6_41C2_2A558185F72F.label = N_11
+panorama_B8A0DFD6_B707_A2AB_41A8_1F0330B5670C.label = N_2
+panorama_B8B29DA1_B704_E6E9_41E5_1D9B2FB010C7.label = N_5
+panorama_B8B334DB_B704_A65A_41D3_9A1572AD8064.label = N_4
+panorama_B8C241A0_B707_7EE7_41B8_02D52CBC0A14.label = N_1
+panorama_B8CB8B15_B71C_A3A9_41D4_CD6B377D6CD2.label = N_12
+panorama_B8D08369_B71C_A266_41C9_326C21BA3CC3.label = N_10
+panorama_B8E25CCF_B707_A6B9_41D5_742898A9A1BD.label = N_3
+panorama_B8EB8075_B705_7E69_41DE_3019FF8A1409.label = N_6
+photo_E125B804_C288_1DA5_4162_3B0710CD27D5.label = SAVIR
+video_01010143_1358_7D90_4193_9B713FF856A4.label = BIO_crystal
+video_010895D2_13C8_44B0_4174_34BD410CF602.label = our_service
+video_010C3B85_1358_4C93_41AE_26472BDDB29D.label = Cali_Promo
+video_012FBAD2_1378_4CB0_417A_8EFFB4428571.label = City Explorer
+video_01C4176C_13F3_066D_4160_959C440B82B3.label = DEmo2019
+video_02A6820B_1348_DF90_4197_93A6653E9760.label = CIRCUIT2
+video_0368BD82_1897_B106_41A1_2E602C8092EC.label = WhatsApp Video 2021-11-29 at 9.46.00 PM
+video_03BD9554_1358_45B1_41B3_1BD88A8FE71F.label = Paper_chromo
+video_04026898_188C_9F02_4199_3CD0DFA65826.label = 2021-08-17 21-10-35
+video_05955460_1893_B702_41B2_DB08C8258886.label = Media4
+video_06935C21_18FC_B702_4192_153A35E75907.label = Sam_promo
+video_07AE7DE1_1378_C490_41AD_5F53A998476C.label = VIZ_E2
+video_128F53B2_1CF9_EF3C_41AB_E6457AAA7945.label = SPIDER - Decentralized Cloud Infrastructure
+video_A68C02DB_B729_57A7_41DE_B976C20F2840.label = yt1s.com - V5  Intelligent Simplicity_1080p
+video_A68CD57A_B729_5D61_41CE_25B02EA3B9FA.label = yt1s.com - VEX 123_1080p
+video_A68CE04B_B729_52A6_41CA_C41E44A6FFF4.label = VEX IQ Meet the Bots - Starter Kit Robots
+video_A68CF942_B729_52A6_41C5_1AEB8FBAE098.label = yt1s.com - VEX GO_1080p
+video_A6915E0A_B729_6EA1_41D7_F7D0767B21C3.label = NeuroMaker Hand Block Based Programming Game Demo
+video_C45EE9CC_CAB4_7CAA_41E4_E4F9B3C8556A.label = SAVIR AHMAD FINAL
+video_C469CCC2_CAB5_D499_41E1_13E0A32A31F6.label = SAVIR ZAID FINAL
+video_C46D63E9_CAB4_2C6B_41CA_B063C687949C.label = SAVIR DANA FINAL
+video_C58F1FF8_CB08_715F_41E0_2DFA1B28331B.label = 2 (1)
+video_C5BFE376_CAB4_2C79_41E3_B4322031B4D1.label = SAVIR ABDULLA FINAL
+video_CB1AD76E_C5DA_1994_41C5_A62B12C4BDCB.label = Virtual Reality Logo Reveal_1080p
+video_DA2807E6_CBDE_5D9A_41E1_E033740620BF.label = linked video
+video_DA4E86BF_CBDE_DFEA_41E5_9BAAA922E508.label = AHMAD GREEN SCREEN
+
+## Popup
+
+### Body
+htmlText_38017851_22D9_9DA7_41B8_B37061915125.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0066ff;font-size:18px;"><B>HELLO IN VIRTUAL LIBRARY</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0066ff;font-size:18px;">Now you can experience the virtual library to </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0066ff;font-size:18px;">read and download books</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0066ff;"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0066ff;font-size:18px;">*</SPAN><SPAN STYLE="color:#0066ff;">We're preparing something amazing for you!! </SPAN><SPAN STYLE="color:#0066ff;"><B>STAY TUNED</B></SPAN></SPAN></DIV></BODY></HTML></div>
+
+## Action
+
+### PDF
+PopupPDFBehaviour_00894797_22D9_72AB_41BA_142082A21031.url = files/FULL_TEXT_en_en_en.PDF
+PopupPDFBehaviour_3D3AE254_22FB_8DAD_41B7_54FED9D9C10E.url = files/FULL_TEXT_en_en_en.PDF
+
+### URL
+LinkBehaviour_07935AF4_234A_926D_41B3_287582797655.source = http://savir.net/
+LinkBehaviour_31C4AD04_20B4_FB58_41A7_6FDBA3C47454.source = http://savir.net/
+LinkBehaviour_32C52F19_20BD_B76B_41BD_83457DD5DA9B.source = https://www.cali.global/
+LinkBehaviour_D737974D_C5CE_1995_41E6_F3433772FC30.source = https://www.cali.global/
+LinkBehaviour_E3ABE59A_C147_2BBA_41D6_2192BA2AC126.source = http://savir.net/
